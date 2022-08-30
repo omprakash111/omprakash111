@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/omprakash111/." target="blank"><img align="center" src="https://github.com/omprakash111/omprakash111/blob/master/leet-code.svg" alt="j." height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/omprakash111/omprakash111/blob/master/instagram.svg" alt="j." height="30" width="40" /></a>
-<a href="#" target="blank" ><img align="center" src="src="https://github.com/omprakash111/omprakash111/blob/master/linked-in-alt.svg"" alt="j." height="30" width="40" /></a>
+<a href="#" target="blank" ><img align="center" src="https://github.com/omprakash111/omprakash111/blob/master/linked-in-alt.svg"" alt="j." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
