@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm om</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="500" src="om.gif">
+<img align="right" alt="coding" width="500" src="https://github.com/omprakash111/omprakash111/blob/master/om.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om&label=Profile%20views&color=0e75b6&style=flat" alt="om" /> </p>
 
 - 🌱 I’m currently learning **Javascript,frontend,python**
@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/omprakash111/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="j." height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="" alt="j." height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="" alt="j." height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omprakash111/." target="blank"><img align="center" src="" alt="j." height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/omprakash111/omprakash111/blob/master/instagram.svg" alt="j." height="30" width="40" /></a>
+<a href="#" target="blank" src="https://github.com/omprakash111/omprakash111/blob/master/linked-in-alt.svg"><img align="center" src="" alt="j." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
