@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Prakash Kumar</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">, I'm Om Prakash Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://github.com/omprakash111/omprakash111/blob/master/om.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om&label=Profile%20views&color=0e75b6&style=flat" alt="om" /> </p>
