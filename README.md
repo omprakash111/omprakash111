@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">, I'm Om Prakash Kumar</h1>
 <h3 align="center">💫 A passionate frontend developer from India 💫</h3>
 <img align="right" alt="coding" width="500" src="https://github.com/omprakash111/omprakash111/blob/master/om.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=om&label=Profile%20views&color=18e200&style=flat" alt="om" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash111&label=Profile%20views&color=18e200&style=flat" alt="om" />
 <a href="https://github.com/omprakash111"><img src="https://img.shields.io/github/followers/omprakash111?label=follow&style=social"></a>
   <a href="https://github.com/omprakash111"><img src="https://img.shields.io/badge/Made%20✨%20By-Om Prakash Kumar-61E9F5"></a>
  
